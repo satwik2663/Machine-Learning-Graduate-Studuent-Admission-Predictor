@@ -7,19 +7,6 @@ The goal of the model is to cover two aspects of Graduate Admission:<br>
  - Students : Building a Machine Learning model to help the aspiring graduate students to narrow down the universities choices in Computer Science in USA<br>
  - University: Building a Machine Learning model to assist the university in selecting suitable candidates for the CS Program<br><br>
 
-<b> <u>APPROACH</u> </b><br>
-- Data Gathering : Scraped the dataset from Yocket, Edulix which consists of 9 columns and 9351 for 29 universities in USA<br>
-- Data cleaning, Data Processing feature Engineering<br>
-- Data Models for students and University : Classification Models<br>
-- Error metrices calculation: Using confusion metrix to calculate Accuracy,F1 score and AUC curve<br>
-- Pipeling: Using Dask for Pipelining<br>
-- Dockerizing: Dockerizing the environment<br>
-- Deployment: deploying the code on Heroku and Amazon AWS S3<br><br>
-
-<b> <u>DATASET</u></b><br>
- - Assisting Student Model : Dataset for 29 colleges across USA ranging from Rank 1 to Rank 130 in computer science department<br>
- - Assidting University Model: Dataset for Northeastern University, Boston<br><br><br>
-
 <b><u>USING THE APPLICATION</b></u><br>
 #### Assisting Student Model :<br>
 <b>URL for the application:</b> https://grad-school-predictor.herokuapp.com/ <br>
@@ -38,7 +25,8 @@ Steps to reproduce:<br> This is for the Northeastern University to admit or reje
  - Run on browser --> http://dockerIP:laptopport <br>
 ![image](https://user-images.githubusercontent.com/37238004/56794222-ada0b500-67db-11e9-8398-fec52cf4a28e.png)
 
-
+##### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
 
