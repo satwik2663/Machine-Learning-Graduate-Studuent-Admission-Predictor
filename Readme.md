@@ -25,7 +25,7 @@ Steps to reproduce:<br> This is for the Northeastern University to admit or reje
  - Run on browser --> http://dockerIP:laptopport <br>
 ![image](https://user-images.githubusercontent.com/37238004/56794222-ada0b500-67db-11e9-8398-fec52cf4a28e.png)
 
-##### License
+##### License <br>
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
